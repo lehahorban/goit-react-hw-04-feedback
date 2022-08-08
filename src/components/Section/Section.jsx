@@ -13,6 +13,5 @@ function Section({ title, children }) {
 Section.propTypes = {
   title: PropTypes.string.isRequired,
 };
-console.log(object);
 
 export default Section;
